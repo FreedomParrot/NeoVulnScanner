@@ -157,7 +157,6 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 ## 🙏 Acknowledgments
 
 - Inspired by [OWASP ZAP](https://www.zaproxy.org/).
-- Thanks to xAI's Grok for the initial code spark! 🤖
 - Cyberpunk vibes: Neon dreams from Blade Runner & Ghost in the Shell. 🌌
 
 <div align="center">
