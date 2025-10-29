@@ -161,8 +161,8 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 <div align="center">
   <strong>Stay Secure, Stay Ethical. Hack the Planet... Responsibly! 🌍🔒</strong>
   <br><br>
-  <a href="https://github.com/yourusername/neovuln-scanner/issues">Report a Bug</a> | 
-  <a href="https://github.com/yourusername/neovuln-scanner/discussions">Discuss</a> | 
+  <a href="https://github.com/FreedomParrot/NeoVulnScanner/issues">Report a Bug</a> | 
+  <a href="https://github.com/FreedomParrot/NeoVulnScanner/discussions">Discuss</a> | 
   <img src="https://img.shields.io/badge/⭐-Star%20Us-ff69b4.svg" alt="Star">
 </div>
 
