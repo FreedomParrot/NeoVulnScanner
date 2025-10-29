@@ -96,12 +96,7 @@
 [14:30:20] Scan completed. For full assessment, use professional tools like OWASP ZAP.
 ```
 
-### Screenshots
-<div align="center">
-  <img src="https://via.placeholder.com/600x400/0D0D0D/00FFFF?text=Scan+Tab+-+Initiate+Your+Neon+Scan" alt="Scan Tab" width="45%">
-  <img src="https://via.placeholder.com/600x400/0D0D0D/FF00FF?text=Results+Tree+-+Vulns+Glow" alt="Results" width="45%">
-  <br>
-</div>
+
 
 ### Advanced Tips
 - **Test Legally**: Use sites like [DVWA](http://www.dvwa.co.uk/) or [VulnHub](https://www.vulnhub.com/).
@@ -143,7 +138,7 @@ Love the neon aesthetic? Help us hack better! 💜
 3. Commit changes (`git commit -m 'Add dark mode toggle ✨'`).
 4. Push & PR!
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details. Issues/PRs welcome! 🛠️
+
 
 ---
 
