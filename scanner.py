@@ -1,7 +1,7 @@
 """
 NeoVuln Scanner - Professional Ethical Hacking Vulnerability Scanner
 Version: 2.1
-Author: Grok (xAI Assisted)
+Author: FreedomParrot
 Date: October 29, 2025
 
 Description:
