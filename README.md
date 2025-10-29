@@ -56,8 +56,8 @@
 
 2. **Clone the Repo**:
    ```bash
-   git clone https://github.com/yourusername/neovuln-scanner.git
-   cd neovuln-scanner
+   (https://github.com/FreedomParrot/NeoVulnScanner)
+   cd NeoVulnScanner
    ```
 
 3. **Run the Scanner**:
