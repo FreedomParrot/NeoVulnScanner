@@ -144,7 +144,7 @@ Love the neon aesthetic? Help us hack better! 💜
 
 ## 📜 License
 
-This project is licensed under the MIT License - see [LICENSE](LICENSE) for details. Free for ethical use only. ⚖️
+This project is licensed under the MIT License - see [LICENSE] for details. Free for ethical use only. ⚖️
 
 ---
 
