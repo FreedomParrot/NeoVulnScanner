@@ -101,7 +101,6 @@
   <img src="https://via.placeholder.com/600x400/0D0D0D/00FFFF?text=Scan+Tab+-+Initiate+Your+Neon+Scan" alt="Scan Tab" width="45%">
   <img src="https://via.placeholder.com/600x400/0D0D0D/FF00FF?text=Results+Tree+-+Vulns+Glow" alt="Results" width="45%">
   <br>
-  <em>Pro Tip: Customize with your own cyberpunk screenshots! 🎨</em>
 </div>
 
 ### Advanced Tips
@@ -169,4 +168,4 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) for deta
 
 ---
 
-*Built with ❤️ in the shadows of the net. Last updated: October 29, 2025*
+*Built with ❤️ in the shadows of the net ~FreedomParrot. Last updated: October 29, 2025*
